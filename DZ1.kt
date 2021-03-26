@@ -2,6 +2,12 @@ package WorkStud
 
 import kotlin.math.sqrt
 
+/***
+ * Домашняя работа 01
+ * Содержание : Знакомсто с переменными и типами данных
+ */
+
+
 fun main() {
     var firstName: String = "Maxim"
     var lastName: String = "Maralev"
