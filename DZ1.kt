@@ -65,10 +65,10 @@ fun summ(): String {
 fun solveEquatoin(a: Int, b: Int, c: Int) {
     val x1: Double
     var aD = a as Double
-    var bD  = b as Double
-    var cD : Double = c as Double
+    var bD = b as Double
+    var cD: Double = c as Double
     x1 = ((-bD + sqrt(aD * bD - 4 * aD * cD)) / 2 * aD)
-        //
+    //
 }
 
 
